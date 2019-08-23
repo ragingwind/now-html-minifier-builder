@@ -10,11 +10,11 @@
     "test": "jest test"
   },
   "devDependencies": {
-    "@now/build-utils": "^0.9.13",
-    "fs-extra": "^8.1.0",
-    "jest": "^24.9.0"
+    "jest": "^24.9.0",
+    "@now/build-utils": "^0.9.13"
   },
   "dependencies": {
+    "fs-extra": "^8.1.0",
     "html-minifier": "^4.0.0"
   }
 }
